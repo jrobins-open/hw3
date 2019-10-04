@@ -1,0 +1,34 @@
+#####################################################
+##############                      #################
+##############   1.125 Homework 3   #################
+##############  Hosting a Website   #################
+##############  With Node/Express   #################
+##############                      #################
+#####################################################
+
+## Task 
+Using the starter code provided along with these instructions:
+- Create a JSON database file that has some randomized users and passwords. We have added one example for you
+- Creat a correct/incorrect login page depending on what is entered for a username/password combination.
+- Edit the webserver file server.js using the express pattern shown in class to fascilitate the communication between the frontend and the database/authenticaiton
+- BONUS - if you want to try to make the process more secure, you can look at the crypto-js library to turn the passwords into an encrypted form instead of plain text
+- For this work please spend some time looking at the Bootstrap templates for a more stylized look and feel to the website. These are CSS/HTML packages that you can use for free to make the sites look more professional and modern.
+- All of your files should be made inside a GitHub repo. MAKE SURE YOU USE THE GIT IGNORE FOR NODE WHEN CREATING THE REPO. Also please note that we aren't asking you to use GitHub pages. You will actually be serving this page in a few weeks time yourself (inplace of providers like GitHub) when we venture into the cloud
+- You will need to start with npm init before you install any packages.
+- To run the server, run node server.js from inside the backend folder.
+- Once you have finished, upload the entire repo to your GitHub. We will be looking at your profiles after the deadline to check the repo is there.
+
+File Structure - We have provided a structure for you to use so that you can create this full-stack solution. The file structure will be as follows:
+yourRepoName/
+        instructions.txt (this file)
+        package.json (when you create it via npm init)
+        /public (this is where you need to put the template for bootstrap or any index.html file if you just want to use a basic webpage and any javascript file that is sent to the browser)
+        /backend/ (all of your backend code, JSON files etc. , will be here)
+
+
+For bootstrap templates you can visit https://startbootstrap.com/themes/ and download a free template. Once you unzip the contents of the download move all of the files into the public directory. 
+The express server code is set up to send anything in the public folder, including javascript like we used in class, to the user.
+Note that these templates have a lot of components so you may want to delete large parts to simplify the pages. 
+
+
+Due Date: Fri Oct 4, 5pm

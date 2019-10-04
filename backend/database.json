@@ -1,0 +1,17 @@
+{
+    "John":{
+        "password":"123456",
+        "details": {
+            "species":"human"
+        }
+    },
+    "Joe":{
+        "password":"123456",
+        "details": {
+            "species":"human",
+            "team":"Packers" ,
+            "school" : "MIT"
+        }
+    }
+
+}
