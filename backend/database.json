@@ -1,12 +1,46 @@
 {
+    "George":{
+        "password":"4321",
+        "details": {
+            "species":"Human",
+            "attributes":"Jungleman",
+            "lastseen":"Never"
+        }
+    },
+    "KingKong":{
+        "password":"yum",
+        "details": {
+            "species":"Massive gorilla",
+            "status":"Wanted, reward offered",
+            "desires":"Pretty girls"
+        }
+    },
+    "Tim":{
+        "password":"MIT",
+        "details": {
+            "species":"beaver",
+            "knownas":"Nature's engineer",
+            "other":"MIT's mascot"
+        }
+    },
+    "Sam":{
+        "password":"password",
+        "details": {
+            "species":"Legend",
+            "job":"Instructor",
+            "desires":"Reading better code",
+            "also":"Password would be better"
+        }
+    },
     "John":{
         "password":"123456",
         "details": {
-            "species":"human"
+            "species":"human",
+            "attribute":"Can explain anything with two boxes on a chalk board"
         }
     },
     "Joe":{
-        "password":"123456",
+        "password":"tester",
         "details": {
             "species":"human",
             "team":"Packers" ,
