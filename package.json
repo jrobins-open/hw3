@@ -2,7 +2,7 @@
   "name": "hw3",
   "version": "1.0.0",
   "description": "",
-  "main": "backend/server.js",
+  "main": "",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.11.2",
     "bootstrap": "^4.3.1",
@@ -15,7 +15,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./backend/server.js"
   },
   "author": "jbr",
   "license": "MIT"
