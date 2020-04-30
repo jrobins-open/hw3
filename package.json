@@ -9,7 +9,7 @@
     "chart.js": "^2.8.0",
     "datatables.net-bs4": "^1.10.20",
     "express": "^4.17.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jquery.easing": "^1.4.1",
     "path": "^0.12.7"
   },
