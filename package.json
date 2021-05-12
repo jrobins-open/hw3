@@ -6,7 +6,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.11.2",
     "bootstrap": "^4.3.1",
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.4",
     "datatables.net-bs4": "^1.10.20",
     "express": "^4.17.1",
     "jquery": "^3.4.1",
